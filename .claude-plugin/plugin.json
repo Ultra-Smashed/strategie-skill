@@ -1,0 +1,23 @@
+{
+  "name": "strategie",
+  "description": "Strategie-Sparring: Positionierung, Angebotstreppe, Entscheidungs-Check mit Pre-Mortem, Jahresplan, Konkurrenz-Check mit Marktlücke.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Christopher Thanisch",
+    "url": "https://thanisch.co"
+  },
+  "homepage": "https://thanisch.co/wissen/guides/strategie-skill-claude",
+  "repository": "https://github.com/Ultra-Smashed/strategie-skill",
+  "license": "MIT",
+  "keywords": [
+    "strategie",
+    "positionierung",
+    "wettbewerb",
+    "konkurrenzanalyse",
+    "jahresplanung",
+    "entscheidung",
+    "pre-mortem",
+    "deutsch",
+    "claude-skills"
+  ]
+}

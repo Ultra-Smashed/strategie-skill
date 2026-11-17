@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "strategie",
+  "description": "Die Fragen, für die andere Unternehmensberater bezahlen.",
+  "owner": {
+    "name": "Christopher Thanisch",
+    "url": "https://thanisch.co"
+  },
+  "plugins": [
+    {
+      "name": "strategie",
+      "description": "Strategie-Sparring: Positionierung, Angebotstreppe, Entscheidungs-Check mit Pre-Mortem, Jahresplan, Konkurrenz-Check mit Marktlücke.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
